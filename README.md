@@ -2,7 +2,7 @@
 
 A graphical Blackjack game built in C++ using [SFML 3](https://www.sfml-dev.org/) for rendering, with card artwork from [Kenney's Playing Cards Pack](https://kenney.nl/assets/playing-cards-pack) (CC0).
 
-![status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 
 ## Features
 
